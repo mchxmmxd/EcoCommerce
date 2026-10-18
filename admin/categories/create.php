@@ -1,0 +1,1 @@
+<?php unset($_GET['id']); require __DIR__.'/edit.php';

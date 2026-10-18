@@ -1,0 +1,1 @@
+<?php $_GET['category']=$_GET['id']??$_GET['category']??''; require __DIR__.'/products.php';
